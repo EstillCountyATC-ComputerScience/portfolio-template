@@ -1,13 +1,13 @@
 # Computer Hardware & Software Maintenance (110101) — One‑Pager
 
-    ## Big Goals
+## Big Goals
 
 - Identify/upgrade components; perform drivers/firmware updates and backups.
 - Apply methodical troubleshooting; compare client OS management tools.
 - Set up and document a basic SOHO network.
 
 
-    ## Evidence to Publish (Portfolio)
+## Evidence to Publish (Portfolio)
 
 - Component ID gallery + build sheets.
 - Maintenance log (drivers/firmware/backups) with before/after notes.
@@ -15,7 +15,7 @@
 - SOHO network plan and checklist.
 
 
-    ## First 12‑Week Milestones
+## First 12‑Week Milestones
 
 1) Safety + tools + component ID.  
 2) Drivers/firmware + backups.  
@@ -23,7 +23,7 @@
 4) SOHO network setup doc.
 
 
-    ## Safety & Scope Guardrails
+## Safety & Scope Guardrails
 
 - Follow ESD and lab safety; instructor sign‑off before physical work.
 - Backup first; never work on a device with real user data.
