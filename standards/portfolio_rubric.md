@@ -1,4 +1,4 @@
-# Portfolio Rubric (Quarterly)
+# Portfolio Rubric
 
 | Category | Meets (3) | Approaches (2) | Emerging (1) |
 |---|---|---|---|
