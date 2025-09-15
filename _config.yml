@@ -1,14 +1,13 @@
 title: Student Portfolio
-description: Portfolio site
-url: "https://estillcountyatc-computerscience.github.io"    # your actual user URL
-baseurl: "/portfolio-template"                          # empty for user sites
+description: Portfolio site template
+url: "https://estillcountyatc-computerscience.github.io"  # no trailing slash
+baseurl: "/portfolio-template"                             # leading slash required
 
-# Theme choice (use one)
+# Choose ONE of these (theme OR remote_theme):
 theme: jekyll-theme-cayman
-# OR:
 # remote_theme: pages-themes/cayman@v0.2.0
 # plugins:
 #   - jekyll-remote-theme
 
-# Optional but helpful to silence metadata warnings:
-repository: EstillCountyATC-ComputerScience/portfolio-template
+# Helps the github-metadata plugin:
+repository: estillcountyatc-computerscience/portfolio-template
