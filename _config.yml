@@ -1,12 +1,14 @@
 title: Student Portfolio
 description: Portfolio site
-# Use either theme: OR remote_theme:
-# Option 1:
-theme: jekyll-theme-cayman
+url: "https://estillcountyatc-computerscience.github.io"    # your actual user URL
+baseurl: ""                          # empty for user sites
 
-# Option 2 (more flexible, pick any pages-themes/*):
+# Theme choice (use one)
+theme: jekyll-theme-cayman
+# OR:
 # remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
-# If this is a project site (not username.github.io), set baseurl:
-# baseurl: "/<repo-name>"
+# plugins:
+#   - jekyll-remote-theme
+
+# Optional but helpful to silence metadata warnings:
+repository: EstillCountyATC-ComputerScience/estillcountyatc-computerscience.github.io
