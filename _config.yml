@@ -1,7 +1,7 @@
 title: Student Portfolio
 description: Portfolio site
 url: "https://estillcountyatc-computerscience.github.io"    # your actual user URL
-baseurl: ""                          # empty for user sites
+baseurl: "/portfolio-template"                          # empty for user sites
 
 # Theme choice (use one)
 theme: jekyll-theme-cayman
