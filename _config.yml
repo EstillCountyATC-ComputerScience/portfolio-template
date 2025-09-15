@@ -1,5 +1,12 @@
-title: "Student Portfolio — Computer Science @ ATC"
-description: "A living resume of projects, tickets, diagrams, and reflections from the ATC student-run IT department."
-theme: minima
-markdown: kramdown
-permalink: pretty
+title: Student Portfolio
+description: Portfolio site
+# Use either theme: OR remote_theme:
+# Option 1:
+theme: jekyll-theme-cayman
+
+# Option 2 (more flexible, pick any pages-themes/*):
+# remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+# If this is a project site (not username.github.io), set baseurl:
+# baseurl: "/<repo-name>"
