@@ -10,8 +10,6 @@ plugins:
   - jekyll-remote-theme
 
 markdown: kramdown
-plugins:
-  - jekyll-remote-theme
 
 # Helps the github-metadata plugin:
 repository: estillcountyatc-computerscience/portfolio-template
