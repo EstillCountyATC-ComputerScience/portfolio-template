@@ -1,8 +1,15 @@
-<body>
-  {% include header.html %}
-  {% if page.hero %}{% include hero.html %}{% endif %}
-  <main id="content" class="main-content" role="main">
-    {{ content }}
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+
+    {% if page.hero %}{% include hero.html %}{% endif %}
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
+
     {% include footer.html %}
-  </main>
-</body>
+  </body>
+</html>
